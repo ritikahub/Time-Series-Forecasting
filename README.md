@@ -1,4 +1,4 @@
-# :chart_with_upwards_trend: Time-Series-Forecasting with Arima and Prophet models: An Introduction
+# :chart_with_upwards_trend: Time Series Forecasting using Arima and Prophet models: An Introduction
 This repository is designed to provide a concise yet comprehensive overview of time series analysis, focusing on key concepts and practical applications. It presents ARIMA models with their variants and Prophet forecasting models, offering a deeper understanding of these powerful tools for time series forecasting.
 
 In the notebook titled **[01-Introduction.ipynb](https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet/blob/master/notebooks/01-Intro_time_series_tutorial.ipynb)**, you will gain insights into the characteristics of time series data and discover methods for their identification through a combination of statistical analysis and graphical tools.
